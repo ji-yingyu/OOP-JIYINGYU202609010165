@@ -1,0 +1,5 @@
+Name: Ali
+Age: 20
+GPA: 3.75
+Ali is studying.
+Ali is taking an exam.

@@ -1,0 +1,10 @@
+Week 2: Student objects
+=======================
+
+Constructor, displayInfo, study and takeExam.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java Main
+
+Each directory is an independent Java project. Compile its own *.java only.
