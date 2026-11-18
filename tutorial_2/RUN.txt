@@ -1,0 +1,10 @@
+Weeks 3-4: Person hierarchy
+===========================
+
+Person, Student, Lecturer and runtime method dispatch.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java Main
+
+Each directory is an independent Java project. Compile its own *.java only.
