@@ -1,0 +1,21 @@
+VERIFICATION RECORD - 17 NOVEMBER 2026
+Executed by OpenAI Codex during local preparation.
+javac 1.8.0_101
+Compiler options: -encoding UTF-8 -Xlint:all (warnings fail verification)
+
+PASS | tutorial_1 | HelloWorld, original starter, example grade and grade boundaries
+PASS | week_2 | Student constructor and three method calls
+PASS | tutorial_2 | Person references dispatch to all three implementations
+PASS | classroom_car | Photographed Car fields and displayInfo
+PASS | tutorial_3 | Private fields, getters/setters, CGPA boundaries and rejected input
+PASS | tutorial_4 | Inherited employee information, subject and added department
+PASS | tutorial_5 | Abstract Appliance dispatches to four appliance types
+PASS | tutorial_6 | First save, automatic reload, append, blank retry, UTF-8, EOF and I/O errors
+PASS | tutorial_7 | Swing button events, retry, score once, all questions, completion and restart
+PASS | existing_payroll | Existing Assignment 2 code remains unchanged and starts/exits
+
+Result: all 10 verification groups passed.
+The payroll check covers startup/exit only; its existing source is unchanged.
+The Swing check uses actual JButton events on the Swing event dispatch thread.
+Screenshots in docs/evidence were rendered from the tested Swing window.
+Repeat: python scripts/verify.py --java-home "path/to/jdk"

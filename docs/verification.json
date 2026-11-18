@@ -1,0 +1,56 @@
+{
+  "compiler": "javac 1.8.0_101",
+  "checks": [
+    {
+      "name": "tutorial_1",
+      "status": "PASS",
+      "details": "HelloWorld, original starter, example grade and grade boundaries"
+    },
+    {
+      "name": "week_2",
+      "status": "PASS",
+      "details": "Student constructor and three method calls"
+    },
+    {
+      "name": "tutorial_2",
+      "status": "PASS",
+      "details": "Person references dispatch to all three implementations"
+    },
+    {
+      "name": "classroom_car",
+      "status": "PASS",
+      "details": "Photographed Car fields and displayInfo"
+    },
+    {
+      "name": "tutorial_3",
+      "status": "PASS",
+      "details": "Private fields, getters/setters, CGPA boundaries and rejected input"
+    },
+    {
+      "name": "tutorial_4",
+      "status": "PASS",
+      "details": "Inherited employee information, subject and added department"
+    },
+    {
+      "name": "tutorial_5",
+      "status": "PASS",
+      "details": "Abstract Appliance dispatches to four appliance types"
+    },
+    {
+      "name": "tutorial_6",
+      "status": "PASS",
+      "details": "First save, automatic reload, append, blank retry, UTF-8, EOF and I/O errors"
+    },
+    {
+      "name": "tutorial_7",
+      "status": "PASS",
+      "details": "Swing button events, retry, score once, all questions, completion and restart"
+    },
+    {
+      "name": "existing_payroll",
+      "status": "PASS",
+      "details": "Existing Assignment 2 code remains unchanged and starts/exits"
+    }
+  ],
+  "status": "PASS"
+}
