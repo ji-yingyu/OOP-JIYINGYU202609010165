@@ -1,0 +1,1 @@
+GUI: wrong answer, retry, scoring, duplicate click, progression, completion and restart passed.

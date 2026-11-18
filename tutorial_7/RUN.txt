@@ -1,0 +1,13 @@
+Week 10: Programming Quiz Battle
+================================
+
+Swing quiz; incorrect-answer retry, score once, five questions, completion and restart.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java QuizBattleGUI
+
+Use a desktop with a graphical display. Terminal-only Codespaces cannot show the window.
+Select an answer, retry if incorrect, then use Next question / Finish. Restart resets the score.
+
+Each directory is an independent Java project. Compile its own *.java only.
