@@ -1,0 +1,4 @@
+Student ID : CU12345
+Name       : Ali
+CGPA       : 3.75
+Programme  : BIT

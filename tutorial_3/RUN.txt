@@ -1,0 +1,10 @@
+Week 5: Student information
+===========================
+
+Private state, getters, setters, validated CGPA and added programme. See documentation.txt.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java Main
+
+Each directory is an independent Java project. Compile its own *.java only.

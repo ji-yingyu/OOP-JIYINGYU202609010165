@@ -1,0 +1,25 @@
+Week 5 - Student Information System
+
+1. Why are the variables declared private?
+Private fields prevent unrelated classes from accessing or assigning the state
+directly. The Student class controls how its own values are read and changed.
+This is encapsulation; it is not encryption or a replacement for access control.
+
+2. What happens if the variables are declared public?
+Other classes can assign the fields directly and bypass the class's validation.
+For example, a public cgpa field could be set to -1. Changing the representation
+would also require changes to client code that accesses the field directly.
+
+3. Why do we use getters and setters?
+Getters provide a controlled way to read state. Setters provide a controlled way
+to update state and can validate input before storing it. Here setCGPA rejects
+non-finite values and values outside 0.0 to 4.0. A getter alone can expose a value
+without allowing clients to replace it.
+
+4. Additional variable: programme
+programme is a private String with public getProgramme and setProgramme methods.
+Main sets it to BIT and displays it together with the other student information.
+
+Implementation choices
+The lab leaves the CGPA scale unspecified. This solution uses a 4.0 scale,
+consistent with its sample value of 3.75. The sample student data are test data.
