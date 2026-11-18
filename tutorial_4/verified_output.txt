@@ -1,0 +1,4 @@
+Employee ID : L100
+Name        : Dr Ahmad
+Subject     : Java Programming
+Department  : Faculty of Information Technology
