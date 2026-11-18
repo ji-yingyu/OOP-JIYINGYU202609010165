@@ -1,0 +1,19 @@
+Brand : LG
+Power ON
+Washing clothes...
+Power OFF
+
+Brand : Panasonic
+Power ON
+Store food & beverages...
+Power OFF
+
+Brand : Daikin
+Power ON
+Cooling the room...
+Power OFF
+
+Brand : Samsung
+Power ON
+Heating food...
+Power OFF
