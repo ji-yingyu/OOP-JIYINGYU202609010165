@@ -1,0 +1,39 @@
+===== ADD TASKS =====
+Enter Task 1: Enter Task 2: Enter Task 3:
+===== TASK LIST =====
+1. drink water
+2. review Java
+3. read notes
+
+Tasks saved successfully.
+
+===== TASKS LOADED FROM FILE =====
+1. drink water
+2. review Java
+3. read notes
+
+SECOND RUN
+===== PREVIOUS TASKS =====
+1. drink water
+2. review Java
+3. read notes
+===== ADD TASKS =====
+Enter Task 1: Task cannot be blank. Please try again.
+Enter Task 1: Enter Task 2: Enter Task 3:
+===== TASK LIST =====
+1. drink water
+2. review Java
+3. read notes
+4. walk
+5. practice
+6. 复习Java
+
+Tasks saved successfully.
+
+===== TASKS LOADED FROM FILE =====
+1. drink water
+2. review Java
+3. read notes
+4. walk
+5. practice
+6. 复习Java

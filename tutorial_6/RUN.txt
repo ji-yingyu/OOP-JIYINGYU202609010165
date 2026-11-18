@@ -1,0 +1,13 @@
+Weeks 8-9: persistent tasks
+===========================
+
+Three new tasks per launch; earlier tasks reload automatically from task.txt.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java Main
+
+Enter three non-empty lines when prompted. task.txt is runtime data ignored by Git.
+The optional first argument selects another task-file path. UTF-8 is used for files.
+
+Each directory is an independent Java project. Compile its own *.java only.
