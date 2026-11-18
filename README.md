@@ -31,6 +31,7 @@ Week 2 is included under Tutorial 1.
 ```text
 OOP-JIYINGYU202609010165/
 |-- README.md
+|-- myreport.pdf                 # Self-reflective report, student review copy
 |-- tutorial_1/                  # Weeks 1-2: HelloWorld, grades, Student objects
 |   `-- week_2/                  # Student constructor and methods
 |-- tutorial_2/                  # Weeks 3-4: Person, Student, Lecturer
@@ -162,5 +163,7 @@ and event-driven interaction. Important lessons include matching Java identifier
 exactly, distinguishing inheritance from overriding, validating state before
 assignment, preserving saved data, and checking complete user workflows.
 
-The individual reflective report (`myreport.pdf`) is pending student review.
+The [individual reflective report](myreport.pdf) is available for student review.
+The student should verify the programme name and revise the personal reflection
+before replacing this copy with the final report.
 The signed AI declaration is submitted separately via Moodle.
