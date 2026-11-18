@@ -1,0 +1,10 @@
+Classroom photograph: Car
+=========================
+
+Supplement to the formal worksheet. Reconstructed Toyota/grey/100 example.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java Main
+
+Each directory is an independent Java project. Compile its own *.java only.
