@@ -1,0 +1,13 @@
+Weeks 1-2: introductory Java
+============================
+
+HelloWorld and StudentGrade; week_2 contains the Student object exercise.
+
+Run from this folder with JDK 8 or later:
+javac *.java
+java HelloWorld
+
+Also run java StudentGrade [mark] and the week_2 project separately.
+Grade rules are example thresholds; they are not an official university grading policy.
+
+Each directory is an independent Java project. Compile its own *.java only.
